@@ -1,2 +1,1 @@
-# Vevora
-Clothes store online 
+vevora 
